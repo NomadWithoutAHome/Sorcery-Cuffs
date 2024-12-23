@@ -2,8 +2,6 @@
 
 A dynamic handcuff mod for Blade & Sorcery that lets you restrain and chain NPCs with magical bindings.
 
-![Mod Banner](path_to_banner_image.jpg)
-
 ## Prerequisites
 
 Before you begin development:
